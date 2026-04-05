@@ -2,8 +2,8 @@
 
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
-LyonsType's Blabber (`LT Blabber`) is a Latin (ID: `*Latn`) and
-Cyrillic (ID: `*Cyrl`) Handwriting font designed by
+LyonsType's Blabber (`LT Blabber`) is a Latin (ID: `*Latn`) with
+Cyrillic (ID: `*Cyrl`) supported Handwriting font designed by
 [The LyonsType's Blabber Project Team](https://lyonstype.neocities.org/fonts).
 Its design is based on thick ink pen calligraphy that presents an informal but
 readable handwriting with strong strokes. Each character is slightly italic in
